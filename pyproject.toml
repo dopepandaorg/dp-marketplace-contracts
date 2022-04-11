@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "dp-marketplace-contracts"
+version = "0.1.0"
+description = ""
+authors = ["DopePanda Dev <dopepandaorg@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pyteal = "^0.10.1"
+py-algorand-sdk = "^1.11.0"
+mypy = "^0.942"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
