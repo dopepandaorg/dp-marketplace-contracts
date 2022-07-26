@@ -1,0 +1,23 @@
+accounts:
+  account_1:
+    address: 7E4HSZ5HKCSFOAK4TNPMFI77Y5EODR64ZDTPH32TIA3SMPSKLKSGQ2FMZI
+    mnemonic: alley stone jazz chuckle cup basic march actor veteran panel now topic
+      inject usage boring laptop begin rescue proud abandon skull step finish about
+      inform
+    private_key: NJD17ojSGkz4sAKZ52cuUQ46vj8DfaLIrVkBYOVV42r5OHlnp1CkVwFcm17Co//HSOHH3Mjm8+9TQDcmPkpapA==
+  account_2:
+    address: 44NKRNF5EBGPJSLAUNPMZMV5ODU4H4T7TAOGYX5VFSV3Q6CQWZNJ5KD5BA
+    mnemonic: hurry grape ankle gospel unveil indoor throw trial position help riot
+      beach slam discover tortoise green toward visit stool kind record boy doctor
+      above notice
+    private_key: fXNZEkw2d8wpPOhDxVp0N4Hl+7BcZjA3/ayp59lqCIjnGqi0vSBM9Mlgo17Msr1w6cPyf5gcbF+1LKu4eFC2Wg==
+  account_3:
+    address: OHCUL77POQDMCUD5K7GLZADAUI GEFCMEHEGOE73IBSMXWYZI24KZPGBL3Q
+    mnemonic: vague arch update menu torch example frog device service forget voice
+      outside gentle safe inherit scout remind recipe announce squirrel tuition dance
+      present above peace
+    private_key: hccC3bOo8jmlqzwh1tbq2Zkw+HpOwa7trBI6HXXdQJVxxUX/73QGwVB9V8y8gGCiDEKJhDkM4n9oDJl7YyjXFQ==
+  total: 3
+client_credentials:
+  address: https://testnet-algorand.api.purestake.io/ps2
+  token: lWrz92T39U4SdqPQHWbZd14QXH94ucTe6Z1biOed

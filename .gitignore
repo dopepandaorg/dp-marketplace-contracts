@@ -135,3 +135,6 @@ compiled
 *.teal.tok
 
 _sandbox/
+
+# Config file
+config.yml
